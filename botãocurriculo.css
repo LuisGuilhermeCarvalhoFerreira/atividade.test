@@ -1,0 +1,18 @@
+#meuBotao {
+    background-color: #45a049a0; /* Cor de fundo */
+    border: none;
+    color: rgba(219, 210, 210, 0.995); /* Cor do texto */
+    padding: 6px 6px; /* Espaçamento interno */
+    text-align: center; /* Alinhamento do texto */
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 2px 2px;
+    transition-duration: 0.8s; /* Duração da transição */
+    cursor: pointer; /* Altera o cursor para um ponteiro */
+}
+
+#meuBotao:hover {
+    background-color: #45a049a0; /* Mudança de cor quando passar o mouse */
+    color: rgba(219, 210, 210, 0.626); /* Mudança de cor do texto quando passar o mouse */
+}
